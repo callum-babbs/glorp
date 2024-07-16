@@ -1,0 +1,22 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	glorp: {
+		DisplayName: Glorp
+		Tooltip: Glorp-maxxing
+	}
+
+	glorpItem: {
+		DisplayName: Galactic Tuna Can
+		Tooltip: Summons Glorp - a silly green alien cat hell-bent on terrorizing Zogglor and the cosmos
+	}
+}
+
+Buffs: {
+	glorpPetBuff: {
+		DisplayName: Glorp
+		Description: Glorp silently judges those around him, his piercing gaze assessing whether to dispose of them or enlist them in his sinister plans
+	}
+}
+
+Projectiles.glorpPetProjectile.DisplayName: Glorp

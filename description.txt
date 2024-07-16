@@ -1,0 +1,1 @@
+Adds a pet Glorp that the player can summon. 
